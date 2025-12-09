@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "きえない",
+  "base_artist": "NOMELON NOLEMON",
+  "createdAt": "2025-12-09T07:47:11.094629Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "きえない",
+      "artist": "NOMELON NOLEMON",
+      "has_synced": true,
+      "path": "select/01_きえない_NOMELON_NOLEMON.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "きえない _ Can't Be Erased",
+      "artist": "NOMELON NOLEMON",
+      "has_synced": true,
+      "path": "select/02_きえない___Can't_Be_Erased_NOMELON_NOLEMON.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "きえない -Instrumental-",
+      "artist": "NOMELON NOLEMON",
+      "has_synced": true,
+      "path": "select/03_きえない_-Instrumental-_NOMELON_NOLEMON.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "きえない",
+      "artist": "NOMELON NOLEMON",
+      "has_synced": false,
+      "path": "select/pl_01_きえない_NOMELON_NOLEMON.txt"
+    }
+  ]
+}
